@@ -1,5 +1,12 @@
 # Reproduce bug
 
+
+git clone
+```bash
+git@github.com:agalera/docker_test.git
+cd docker_test
+```
+
 generate image
 ```bash
 docker build -t docker_test --no-cache .
