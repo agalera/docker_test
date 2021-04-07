@@ -3,7 +3,7 @@
 
 git clone
 ```bash
-git@github.com:agalera/docker_test.git
+git clone git@github.com:agalera/docker_test.git
 cd docker_test
 ```
 
